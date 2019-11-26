@@ -1,0 +1,41 @@
+* ReactJS Resource List (To start ReactJS Following topics will help understanding fundamentals)
+
+** JavaScript
+    - https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
+** CSS //There are lot many concepts and propreties to learn, hence need to refer lot of article and video tutorial 
+    - https://www.youtube.com/watch?v=1PnVor36_40
+    - https://www.youtube.com/playlist?list=PLr6-GrHUlVf8JIgLcu3sHigvQjTw_aC9C
+
+** HTML
+    - http://www.youtube.com/watch?v=UB1O30fR-EE&t=11m10s
+
+** TypeScript (Super set of JavaScript, not react related but in future it will be helpful) //Future proof
+    - https://www.typescriptlang.org/docs/home.html
+    - https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
+    - https://www.typescriptlang.org/docs/handbook/basic-types.html
+
+** ReactJS
+    - https://www.youtube.com/playlist?list=PL7pEw9n3GkoVPFsAylfniAT3QQcjWGl5C // Best video tutorial
+    - https://reactjs.org/
+    - https://www.taniarascia.com/getting-started-with-react/
+    - https://reactjs.org/tutorial/tutorial.html 
+    - https://reactjs.org/docs/hello-world.html    
+    - https://www.youtube.com/watch?v=dGcsHMXbSOA //video tutorial
+    - 
+
+** NPM // Free Packages(libraries)
+    - https://www.npmjs.com/
+
+** UI-Framework
+    - https://material-ui.com/
+    - https://www.creative-tim.com/templates/react // Free and Paid 
+    - and there are other UI-Frameworks
+
+** Tools
+    - Text Editor 
+        - https://code.visualstudio.com/
+    - Debug Tool 
+        - https://developers.google.com/web/tools/chrome-devtools?utm_source=dcc&utm_medium=redirect&utm_campaign=2018Q2
+        - https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en 
+    - 

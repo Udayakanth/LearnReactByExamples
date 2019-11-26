@@ -1,0 +1,30 @@
+$bgColor : #292626;
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: $bgColor;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+h1 {
+  color: white;
+  border: 4px dotted gray ;
+  padding: 10px;
+}
